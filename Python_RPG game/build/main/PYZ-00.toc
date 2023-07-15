@@ -1,5 +1,5 @@
-('D:\\Program Files (x86)\\Visual Studio '
- 'Code\\Python_RPG\\build\\main\\PYZ-00.pyz',
+('D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
+ 'game\\build\\main\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),

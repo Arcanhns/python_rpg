@@ -9,8 +9,8 @@ area = 1
 class Player():
     def __init__(self):
         self.name = None
-        self.hp = 15
-        self.max_hp = 15
+        self.hp = 35
+        self.max_hp = 35
         self.lvl = 1
         self.exp = 0
         self.required_exp = exp_required
@@ -59,7 +59,7 @@ class Dfs_x:
         self.stock = stock
 
 player = Player()
-potion_25 = Potion("SMALL POTION", "Restores 25 HP", 25, 0)
+potion_25 = Potion("SMALL POTION", "Restores 25 HP", 25, 2)
 potion_50 = Potion("MEDIUM POTION", "Restores 50 HP", 50, 0)
 potion_100 = Potion("BIG POTION", "Restores 100 HP", 100, 0)
 atk_x = Atk_x("ATTACK X", "Increase ATK ST", random.randint(4,10), 0)
