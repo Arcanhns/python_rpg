@@ -16,7 +16,7 @@ class Player():
         self.required_exp = exp_required
         self.atk = random.randint(6,10)
         self.dfs = random.randint(1,4)
-        self.jcoins = max(0, 1000)
+        self.jcoins = max(0, 0)
 
 class Enemy():
 

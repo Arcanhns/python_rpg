@@ -1,5 +1,4 @@
-('D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
- 'game\\dist\\main.exe',
+('D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\dist\\main.exe',
  True,
  False,
  False,
@@ -14,31 +13,31 @@
  None,
  None,
  None,
- 'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
- 'game\\build\\main\\main.pkg',
+ 'D:\\Program Files (x86)\\Visual Studio '
+ 'Code\\Python_RPG\\build\\main\\main.pkg',
  [('PYZ-00.pyz',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\PYZ-00.pyz',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\localpycs\\struct.pyc',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -68,32 +67,32 @@
   ('_socket.pyd',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
    'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
   ('_ssl.pyd',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
    'EXTENSION'),
   ('_hashlib.pyd',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
    'EXTENSION'),
-  ('unicodedata.pyd',
-   'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
   ('_decimal.pyd',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
    'EXTENSION'),
-  ('libcrypto-1_1.dll',
-   'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
-   'BINARY'),
   ('libssl-1_1.dll',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-1_1.dll',
    'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
   ('base_library.zip',
-   'D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG '
-   'game\\build\\main\\base_library.zip',
+   'D:\\Program Files (x86)\\Visual Studio '
+   'Code\\Python_RPG\\build\\main\\base_library.zip',
    'DATA')],
  [],
  False,
  False,
- 1689381819,
+ 1689385951,
  [('run.exe',
    'C:\\Users\\arcan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')])
