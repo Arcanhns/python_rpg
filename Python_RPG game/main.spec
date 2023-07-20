@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['D:\\Program Files (x86)\\Visual Studio Code\\Python_RPG\\Python_RPG game\\main.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],
